@@ -1,3 +1,7 @@
+---
+layout: none
+---
+
 # 🇳🇿 New Zealand Road Trip
 
 ## ✈️ Flights
