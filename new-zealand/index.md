@@ -1,5 +1,6 @@
 ---
-layout: none
+layout: page
+title: ""
 ---
 
 # 🇳🇿 New Zealand Road Trip
